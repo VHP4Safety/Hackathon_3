@@ -23,9 +23,10 @@ The BridgeDB Interaction Tool is a Streamlit-based web application that allows u
 1. Clone the repository
 2. Create a virtual environment (optional but recommended)
 3.  Install the required packages
-4.  4. Set up your OpenAI API key:
+4. Set up your OpenAI API key:
 - Create a `.env` file in the project root
 - Add your OpenAI API key to the file:
+
   ```
   OPENAI_API_KEY=your_api_key_here
   ```
