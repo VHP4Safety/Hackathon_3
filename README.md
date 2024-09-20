@@ -1,10 +1,10 @@
 # Hackathon_3
 Repository to prepare for the Hackathon 3 - Using LLMs
 
-# BridgeDB Agent Interaction Tool
+# BridgeDb Agent Interaction Tool
 
 ## Description
-The BridgeDB Interaction Tool is a Streamlit-based web application that allows users to interact with the BridgeDB API using natural language queries. It facilitates the mapping of identifiers across various biological and chemical databases, making it easier for researchers and bioinformaticians to cross-reference and retrieve information about genes, proteins, and chemical compounds.
+The BridgeDb Interaction Tool is a Streamlit-based web application that allows users to interact with the [BridgeDb API](https://webservice.bridgedb.org/) using natural language queries. It facilitates the mapping of identifiers across various biological and chemical databases, making it easier for researchers and bioinformaticians to cross-reference and retrieve information about genes, proteins, and chemical compounds.
 
 ## Features
 - Map gene identifiers across different databases (e.g., Ensembl, HGNC, RefSeq)
