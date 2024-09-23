@@ -1,4 +1,4 @@
-# Hackathon_3
+# Hackathon_3_ AgentBridgeDB
 Repository to prepare for the Hackathon 3 - Using LLMs
 
 # BridgeDb Agent Interaction Tool
